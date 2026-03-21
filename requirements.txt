@@ -1,0 +1,13 @@
+# Core Web Framework
+streamlit>=1.28.0
+
+# Data Visualization
+
+plotly>=5.18.0
+
+# Data Processing (optional but commonly used with Streamlit)
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Date and Time Utilities
+python-dateutil>=2.8.2
